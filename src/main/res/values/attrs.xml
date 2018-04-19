@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="attr_tantan_view">
+        <attr name="visibleCount" format="integer" />
+        <attr name="horizontalGap" format="dimension" />
+        <attr name="verticalGap" format="dimension" />
+    </declare-styleable>
+
+</resources>
